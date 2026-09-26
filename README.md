@@ -53,6 +53,7 @@ As fontes selecionadas estão documentadas em:
 │   ├── resumo-pandas-sql-excel.md
 │   ├── fontes-estudo.md
 │   └── cicatrizes-aprendizado.md
+|   └── glossario.md
 │
 ├── exercicios/
 │   ├── pandas/
